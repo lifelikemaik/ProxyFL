@@ -1,0 +1,8 @@
+# python3.9
+# wheel
+torch==1.9.0
+torchvision==0.10.0 
+numpy==1.21.2
+mpi4py==3.1.2
+opacus==0.14.0
+matplotlib==3.4.3
